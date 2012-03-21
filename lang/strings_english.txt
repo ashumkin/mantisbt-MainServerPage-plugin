@@ -1,0 +1,9 @@
+<?php
+
+# Copyright (c) 2012 Alexey Shumkin
+# Licensed under the MIT license
+
+$s_plugin_MainServerPage_ = '';
+$s_plugin_MainServerPage_title = 'Main server page link in the main menu';
+$s_plugin_MainServerPage_description = 'Main server page link in the main menu';
+$s_plugin_MainServerPage_MainServerPage = 'main server page';

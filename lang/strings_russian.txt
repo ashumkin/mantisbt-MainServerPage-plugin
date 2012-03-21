@@ -1,0 +1,9 @@
+<?php
+
+# Copyright (c) 2012 Alexey Shumkin
+# Licensed under the MIT license
+
+$s_plugin_MainServerPage_ = '';
+$s_plugin_MainServerPage_title = 'Ссылка на главную страницу сервера в главном меню';
+$s_plugin_MainServerPage_description = 'Ссылка на главную страницу сервера в главном меню';
+$s_plugin_MainServerPage_MainServerPage = 'главная сервера';
